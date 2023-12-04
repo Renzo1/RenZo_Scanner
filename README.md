@@ -6,7 +6,7 @@ The activity involves my initial review of code, where I search for specific key
 
 The list of red flags can be found in the [starter pack repo](https://github.com/Renzo1/Security_Auditors_Starter_Pack). I believe this tool could be beneficial for others in the community.
 
-Feel free to modify the script according to your needs. Adding more keywords to search is as simple as copying and pasting the words into the script.
+Feel free to modify the script according to your needs. Adding more keywords to search is as simple as copying and pasting the words into the `red_flags` array in the script.
 
 ## How to Use
 - Clone project local `git clone https://github.com/Renzo1/RenZo_Scanner.git`
