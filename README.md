@@ -15,4 +15,4 @@ Feel free to modify the script according to your needs. Adding more keywords to 
 - The rest of the steps will be in the terminal print.
 
 ## Ask
-I have intentions to develop this tool into one of the best static analyzers available in the coming months. If you have any resources that could help me achieve this goal, please share them here or any of my socials. I appreciate your assistance in advance.
+I have aspirations to develop this tool into one of the best static analyzers available in the coming months. If you have any resources that could help me achieve this goal, please share them here or any of my socials. I appreciate your assistance in advance.
